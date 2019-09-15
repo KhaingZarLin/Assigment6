@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assigment6</string>
+    <string name="discover">Discover Restaurants</string>
+    <string name="mexican">Mexican Bite</string>
+    <string name="rateno">4.0</string>
+    <string name="percent">(100)</string>
+    <string name="description">Mexican.18 Tank House Lane Hip Spot for Mexican tapas with a patio Open until 12:00AM.</string>
+    <string name="address">N Codar St and Condar</string>
+    <string name="detailtitle">Pickle,jam and chutney</string>
+    <string name="detail_description">Android allows us to create shapes using shape drawable. The basic shapes supported in shape drawables are Line, Oval, Rectangle and Ring. This tutorial focuses on how to create circle shape. The drawable created using android shapes are scalable and highly maintainable compared to pre graphics bundled with APK.Jul 14, 2015</string>
+    <string name="detail">DETAILS</string>
+    <string name="menu">MENU</string>
+    <string name="review">REVIEWS</string>
+    <string name="time">10am-10pm</string>
+    <string name="lenght">1.5KM</string>
+    <string name="map">Map View</string>
+    <string name="delivery">Delivery</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
